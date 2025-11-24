@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://www.pngmart.com/image/276452)" alt="Logo" width="80" height="80">
+    <img src="Turtle 1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Turtle Drone Project (Custom FPV Drone)</h3>
