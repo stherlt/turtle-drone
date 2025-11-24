@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://www.pngmart.com/image/276452)" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Turtle Drone Project (Custom FPV Drone)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is a custom drone project I built, it started off with wanting to make a custom flight controller, and I am now trying to expand it into designing a frame and custom enclosures for my drone!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
